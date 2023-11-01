@@ -1,0 +1,68 @@
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.deps.json
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.runtimeconfig.json
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.pdb
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DATA.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DATA.pdb
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.AssemblyReference.cache
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.AssemblyInfoInputs.cache
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.AssemblyInfo.cs
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.CopyComplete
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\refint\Program.DAL.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.pdb
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.genruntimeconfig.cache
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\ref\Program.DAL.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.deps.json
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.runtimeconfig.json
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.pdb
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DATA.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DATA.pdb
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.AssemblyInfo.cs
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.CopyComplete
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\refint\Program.DAL.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.pdb
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.genruntimeconfig.cache
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\ref\Program.DAL.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.deps.json
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.runtimeconfig.json
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.pdb
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DATA.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DATA.pdb
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.AssemblyReference.cache
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.AssemblyInfoInputs.cache
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.AssemblyInfo.cs
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.CopyComplete
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\refint\Program.DAL.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.pdb
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.genruntimeconfig.cache
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\ref\Program.DAL.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.deps.json
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.runtimeconfig.json
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DAL.pdb
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DATA.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\bin\Debug\net6.0\Program.DATA.pdb
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.AssemblyReference.cache
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.AssemblyInfoInputs.cache
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.AssemblyInfo.cs
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.CoreCompileInputs.cache
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.csproj.CopyComplete
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\refint\Program.DAL.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.pdb
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\Program.DAL.genruntimeconfig.cache
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.DAL\obj\Debug\net6.0\ref\Program.DAL.dll

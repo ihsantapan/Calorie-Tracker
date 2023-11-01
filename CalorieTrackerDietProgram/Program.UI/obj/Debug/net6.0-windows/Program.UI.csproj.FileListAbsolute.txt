@@ -1,0 +1,277 @@
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.AssemblyReference.cache
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.LoginScreen.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MainMenu.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.PasswordRenewScreen.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.RegisterScreen.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.GenerateResource.cache
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AssemblyInfoInputs.cache
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AssemblyInfo.cs
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.CoreCompileInputs.cache
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.exe
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.deps.json
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.runtimeconfig.json
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.pdb
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\refint\Program.UI.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.pdb
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.genruntimeconfig.cache
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\ref\Program.UI.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DAL.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DATA.dll
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DAL.pdb
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DATA.pdb
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HomeScreen.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.NutritionCartControl.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.NutritionControl.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.Properties.Resources.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.UserInfoScreen.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.CopyComplete
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HealthStatusScreen.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AdminPanel.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MealTotalCalorieControl.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AddNutritionScreen.resources
+C:\Users\kaane\source\repos\Boost ONL-5\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AddMealScreen.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.exe
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.deps.json
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.runtimeconfig.json
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.pdb
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DAL.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DATA.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DAL.pdb
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DATA.pdb
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AddMealScreen.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AddNutritionScreen.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AdminPanel.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HealthStatusScreen.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HistoryPage.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HomeScreen.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.LoginScreen.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MainMenu.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MealTotalCalorieControl.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.NutritionCartControl.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.NutritionControl.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.PasswordRenewScreen.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.Properties.Resources.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.RegisterScreen.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.UserInfoScreen.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AssemblyInfo.cs
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.CopyComplete
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\refint\Program.UI.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.pdb
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.genruntimeconfig.cache
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\ref\Program.UI.dll
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MealDetails.resources
+C:\Users\pc\Desktop\EFC Project\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.Analyse.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.exe
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.deps.json
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.runtimeconfig.json
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.pdb
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DAL.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DATA.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DAL.pdb
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DATA.pdb
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.AssemblyReference.cache
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AddMealScreen.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AddNutritionScreen.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AdminPanel.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.Analyse.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HealthStatusScreen.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HistoryPage.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HomeScreen.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.LoginScreen.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MainMenu.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MealDetails.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MealTotalCalorieControl.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.NutritionCartControl.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.NutritionControl.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.PasswordRenewScreen.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.Properties.Resources.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.RegisterScreen.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.UserInfoScreen.resources
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.GenerateResource.cache
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AssemblyInfoInputs.cache
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AssemblyInfo.cs
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.CoreCompileInputs.cache
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.CopyComplete
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\refint\Program.UI.dll
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.pdb
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.genruntimeconfig.cache
+C:\Users\tapan\Desktop\CalorieTrackerDietProgram(YeniGüncel)\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\ref\Program.UI.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.exe
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.deps.json
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.runtimeconfig.json
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.UI.pdb
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Castle.Core.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DAL.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DATA.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DAL.pdb
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\bin\Debug\net6.0-windows\Program.DATA.pdb
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.AssemblyReference.cache
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AddMealScreen.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AddNutritionScreen.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AdminPanel.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.Analyse.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HealthStatusScreen.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HistoryPage.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.HomeScreen.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.LoginScreen.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MainMenu.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MealDetails.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.MealTotalCalorieControl.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.NutritionCartControl.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.NutritionControl.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.PasswordRenewScreen.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.Properties.Resources.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.RegisterScreen.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.UserInfoScreen.resources
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.GenerateResource.cache
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AssemblyInfoInputs.cache
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.AssemblyInfo.cs
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.CoreCompileInputs.cache
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.csproj.CopyComplete
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\refint\Program.UI.dll
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.pdb
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\Program.UI.genruntimeconfig.cache
+D:\Bilge Adam BOOST\Proje Haftası\CalorieTrackerDietProgram\Program.UI\obj\Debug\net6.0-windows\ref\Program.UI.dll
